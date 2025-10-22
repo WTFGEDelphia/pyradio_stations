@@ -17,7 +17,7 @@ BASE_URL = "https://cn.tingfm.com/wp-json/query/wndt_streams"
 OUTPUT_CSV_FILE = "stations.csv"
 CACHE_FILE = "cache.json"
 START_ID = 1
-END_ID = 5000
+END_ID = 1292
 
 # --- 流量控制配置 ---
 REQUEST_DELAY_SECONDS = 0.5
